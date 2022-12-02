@@ -1,0 +1,1458 @@
+[
+    {
+        "id": "1a651d90-55c7-4bcb-a61d-03bc65708cc3",
+        "name": "Elon Musk",
+        "handle": "@elonmusk",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041154218297397308/unknown.png",
+        "followers": 15300000,
+        "following": 130,
+        "joined_date": "June 2009",
+        "real_tweets": [
+            {
+                "id": "e15b7a65-41e4-4583-877f-942b74c3804a",
+                "body": "🪦🤖",
+                "vibe": "Soon",
+                "date": "07:36 am 12 Nov 2022",
+                "retweets": 18100,
+                "likes": 223800,
+                "replies": 20800,
+                "quote_tweets": 4157
+            },
+            {
+                "id": "27af57cd-3a9b-4770-a05c-e91e1342e731",
+                "body": "FTX meltdown/ransack being tracked in real-time on Twitter",
+                "date": "06:14 am 12 Nov 2022",
+                "retweets": 13618,
+                "likes": 135700,
+                "replies": 9855,
+                "quote_tweets": 1418
+            },
+            {
+                "id": "37fc6695-2036-4729-b638-f70a4cc2d2a9",
+                "body": "Twitter HQ is great (this is a real pic)",
+                "date": "04:14 pm 11 Nov 2022",
+                "retweets": 12900,
+                "likes": 169100,
+                "replies": 10300,
+                "quote_tweets": 2056,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041154774889934988/unknown.png?width=1799&height=1133"
+            },
+            {
+                "id": "a1faea15-32c7-4509-8499-01985189b375",
+                "body": "Power to the People",
+                "date": "03:45 am 05 Nov 2022",
+                "retweets": 69600,
+                "likes": 722700,
+                "replies": 53600,
+                "quote_tweets": 10700
+            },
+            {
+                "id": "31b0832a-5cc4-42bb-b568-1c97dd5051a2",
+                "body": "",
+                "date": "01:28 am 08 Nov 2022",
+                "retweets": 48700,
+                "likes": 685600,
+                "replies": 58300,
+                "quote_tweets": 9588,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041155199382847499/unknown.png"
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "f54349b1-0790-4c81-ac8c-3b7bd60767a4",
+                "body": "🤡",
+                "date": "05:12 am 12 Nov 2022",
+                "retweets": 18100,
+                "likes": 193600,
+                "replies": 14300,
+                "quote_tweets": 4327
+            },
+            {
+                "id": "0f0021a2-1b44-4337-a90e-027ebfa5afff",
+                "body": "Thinking of making a platform called the 'twitterverse', thoughts?",
+                "date": "07:12 am 04 Nov 2022",
+                "retweets": 39800,
+                "likes": 121300,
+                "replies": 47300,
+                "quote_tweets": 7680,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041155470532022313/unknown.png"
+            },
+            {
+                "id": "a6aa3af6-280a-43d8-bcea-1da206fcfc26",
+                "body": "My dream is a big, beautiful galaxy, full of life & incredible",
+                "date": "06:31 pm 01 Nov 2022",
+                "retweets": 71200,
+                "likes": 227800,
+                "replies": 42900,
+                "quote_tweets": 11600
+            },
+            {
+                "id": "306df408-6550-4c44-8e8d-30bf5b9baad9",
+                "body": "What do people think about Twitter? Does it actually have more trust & trust in their users than China?",
+                "date": "04:31 am 06 Nov 2022",
+                "retweets": 31200,
+                "likes": 87800,
+                "replies": 28760,
+                "quote_tweets": 10400
+            },
+            {
+                "id": "7b77fadb-cc1e-4d4f-a5bf-3009b9ef12fb",
+                "body": "How do they get their funds? I wonder 🤔.",
+                "date": "04:14 pm 11 Nov 2022",
+                "retweets": 19276,
+                "likes": 98700,
+                "quote_tweets": 3387,
+                "attachment": "https://exantestatic.s3.eu-west-1.amazonaws.com/cache/e0/16/e0162a2245195e2220a541d0ba0584d5.jpg"
+            }
+        ]
+    },
+    {
+        "id": "0160382d-2ca4-4522-b3e1-c7b5ed261a2d",
+        "name": "Pepsi",
+        "handle": "@pepsi",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041157491024723988/unknown.png",
+        "followers": 3100000,
+        "following": 37600,
+        "joined_date": "December 2008",
+        "real_tweets": [
+            {
+                "id": "dcdd0536-a267-44d1-8e49-1b78c4f8e1e9",
+                "body": "It’s the Anime Pepsi you always dreamed of",
+                "date": "03:30 pm 26 Oct 2022",
+                "retweets": 80,
+                "likes": 299,
+                "replies": 39,
+                "quote_tweets": 11,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041158178471153834/Screenshot_1.png"
+            },
+            {
+                "id": "1502ec5a-8a05-4387-842f-c9e17e0ac2bd",
+                "body": "Let Pepsi be your new game day good luck charm because those socks are starting to smell.",
+                "date": "3:52 pm 21 Oct 2022",
+                "retweets": 30,
+                "likes": 195,
+                "replies": 24,
+                "quote_tweets": 2,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041158471053222011/unknown.png"
+            },
+            {
+                "id": "e166a9eb-d07b-47ca-b91f-d84362573fd4",
+                "body": "#AnotherOne for H1M & & that’s 1-2-3-4 for the J-E-T-S. Congrats @iamSauceGardner. RT this post with #PepsiRookieSweepstakes, for your chance to win this week’s Pepsi Zero Sugar Rookie Collection tee. Complete rules https://bit.ly/3CmK4l9",
+                "date": "06:49 pm 27 Oct 2022",
+                "retweets": 912,
+                "likes": 1147,
+                "replies": 783,
+                "quote_tweets": 1233
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "80ba9921-d47a-4b24-ba19-8d9e0e326905",
+                "body": "Enjoy the 🔥 Pepsi Zero Sugar Nitro Sugar. Check out @MTVPopstar and RT using #PepsiSodaShop #MTVPopstar to learn more!",
+                "date": "02:42 am 5 Nov 2022",
+                "retweets": 1012,
+                "likes": 647,
+                "replies": 569,
+                "quote_tweets": 2104
+            },
+            {
+                "id": "c715e1ff-a4b1-4040-9e7a-dc6458e82409",
+                "body": "How about a coke? Don't let it get too warm near you. I think it would be great to have the carbonated Pepsi in the fridge 😉",
+                "date": "07:22 pm 10 Nov 2022",
+                "retweets": 101,
+                "likes": 160,
+                "replies": 78,
+                "quote_tweets": 43
+            },
+            {
+                "id": "d73b5cfe-53ae-4f3b-af50-374260f1e6e7",
+                "body": "WINNER! Check out this #sweetnosugar art by user @JnglDiff078! Keep your eyes open for future competitions 👀",
+                "date": "10:34 am 15 Nov 2022",
+                "retweets": 88,
+                "likes": 101,
+                "replies": 5,
+                "quote_tweets": 45,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041158902961688676/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "2a7fd072-34cc-4a0d-8975-db2a6d4377c7",
+        "name": "Thoughts of Dog",
+        "handle": "@dog_feelings",
+        "picture": "https://media.discordapp.net/attachments/1041153839191052408/1041159459667447889/unknown.png",
+        "followers": 3700000,
+        "following": 3,
+        "joined_date": "March 2017",
+        "real_tweets": [
+            {
+                "id": "861d4b37-6422-445f-80f4-f79684a74091",
+                "body": "do not rush me. on our walks. these sniffs are like my social media. and i’m scrollin",
+                "date": "07:12 pm 28 Oct 2022",
+                "retweets": 10700,
+                "likes": 126900,
+                "replies": 718,
+                "quote_tweets": 597
+            },
+            {
+                "id": "373e14fb-afc5-48ad-ad1f-c4c75a13a3f2",
+                "body": "today. i wasn’t a very good dog. april fools. i was so good",
+                "date": "12:07 am 2 Apr 2022",
+                "retweets": 19400,
+                "likes": 271500,
+                "replies": 577,
+                "quote_tweets": 709
+            },
+            {
+                "id": "ec8dc133-802a-4838-9ac2-e55f77831236",
+                "body": "with great cuteness. comes no responsibility",
+                "date": "01:51 am 29 Jul 2022",
+                "retweets": 4125,
+                "likes": 48000,
+                "replies": 269,
+                "quote_tweets": 331
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "a6713179-5460-48b4-8003-315854cfe63b",
+                "body": "woof woof. that was my best guess. i'd also like to thank you",
+                "date": "02:42 am 4 Nov 2022",
+                "retweets": 3122,
+                "likes": 35600,
+                "replies": 279,
+                "quote_tweets": 227
+            },
+            {
+                "id": "54a5fb70-9998-4840-9c98-900bcd8e70a4",
+                "body": "i put my snoot on your leg. and it was. an absolute blessing. it made me smile so much. to all of you",
+                "date": "11:43 am 10 Oct 2022",
+                "retweets": 22200,
+                "likes": 38766,
+                "replies": 567,
+                "quote_tweets": 178
+            },
+            {
+                "id": "d27c5430-719c-4b26-87ed-e08808a9a1f8",
+                "body": "must run in circles. very fast. to evade. danger. and always. have a good dog",
+                "date": "03:30 am 01 Nov 2023",
+                "retweets": 5606,
+                "likes": 21200,
+                "replies": 515,
+                "quote_tweets": 254
+            }
+        ]
+    },
+    {
+        "id": "d6da9c6f-b2bf-4ab3-b008-cdf016a680d6",
+        "name": "Bet365",
+        "handle": "@bet365",
+        "picture": "https://media.discordapp.net/attachments/1041153839191052408/1041159736516694147/unknown.png",
+        "followers": 449200,
+        "following": 365,
+        "joined_date": "December 2010",
+        "real_tweets": [
+            {
+                "id": "1cca44f5-2939-42a9-b7c7-95165d052510",
+                "body": "Out of 10, how would you rate your club's first half of the season?",
+                "date": "07:12 pm 28 Oct 2022",
+                "retweets": 0,
+                "likes": 14,
+                "replies": 53,
+                "quote_tweets": 13
+            },
+            {
+                "id": "fe7ef33a-ffef-4921-847c-ec3fc93bd571",
+                "body": "What. A. Match.\n\n Samoa knock England out by golden point to reach their first-ever Rugby League World Cup Final\n\nAn incredible achievement at the Emirates.\n\n#RLWC",
+                "date": "04:35 pm 12 Nov 2022",
+                "retweets": 3,
+                "likes": 17,
+                "replies": 3,
+                "quote_tweets": 0,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041160314701500536/unknown.png?width=1134&height=1134"
+            },
+            {
+                "id": "268d4ff5-ffd7-4ff7-b8e0-b5022ae97011",
+                "body": "Leading trainer Nicky Henderson bids for more success at Cheltenham.\n\nWe've boosted four of his fancied runners.",
+                "date": "12:50 pm 12 Nov 2022",
+                "retweets": 0,
+                "likes": 3,
+                "replies": 3,
+                "quote_tweets": 0
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "c9259d22-601f-4c75-87da-eda4ea79a94a",
+                "body": "Fight night! Get the memes going! Marshall-Wace's Conor Kiernan takes on our very own Alicia! @bet365 | @boxxer | #ShieldsMarshall",
+                "date": "08:49 pm 12 Nov 2022",
+                "retweets": 5,
+                "likes": 10,
+                "replies": 4,
+                "quote_tweets": 2
+            },
+            {
+                "id": "bf7b81b7-e5cd-4996-988b-db91625e13e8",
+                "body": "Aston Villa take on Real Madrid at the Ibrox. We're Live Streaming the bet365 Betspogo. Customers must have a funded Sports account or have placed a bet within the last 24 hours.",
+                "date": "06:30 pm 19 Oct 2022",
+                "retweets": 0,
+                "likes": 7,
+                "replies": 3,
+                "quote_tweets": 7,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041160976642351114/unknown.png"
+            },
+            {
+                "id": "826e41be-3e7b-4856-bffe-e168b62ec64c",
+                "body": "How do you think your card will look in England's Super 12s tournament opener against India?",
+                "date": "7:05 am 07 Nov 2022",
+                "retweets": 42,
+                "likes": 17,
+                "replies": 122,
+                "quote_tweets": 101
+            }
+        ]
+    },
+    {
+        "id": "1275f0d0-1dd6-46e5-bf76-1671e0cf5567",
+        "name": "Palantir",
+        "handle": "@PalantirTech",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041161353253093527/unknown.png",
+        "followers": 128000,
+        "following": 58,
+        "joined_date": "May 2009",
+        "real_tweets": [
+            {
+                "id": "8db8104b-6afd-425c-a003-2484b2ab65f7",
+                "body": "Congratulations to Dr. Joni Rutter for this well deserved honor. #Palantir is proud to support the great work of @NCATS and #N3C.\n\n Together, we are powering a protected #data enclave with >16 million patients from 76 medical centers, and over 3,000 collaborating researchers.",
+                "date": "07:12 pm 28 Oct 2022",
+                "retweets": 12,
+                "likes": 104,
+                "replies": 0,
+                "quote_tweets": 1
+            },
+            {
+                "id": "ea5233ed-2616-41b8-8341-d490f1ed50ff",
+                "body": "'All the pundits said that software was going to eat the world.'\n\n'From my perspective, between Ukraine, inflation, COVID and the aftershocks that have followed, it looks much more like the world ate #software.'\n\nWatch @ssankar's full FoundryCon address:",
+                "date": "7:45 pm 31 Oct 2022",
+                "retweets": 28,
+                "likes": 156,
+                "replies": 5,
+                "quote_tweets": 3
+            },
+            {
+                "id": "a2f1bd6c-a8e6-4e5e-947e-91d267e20a74",
+                "body": "#Palantir Foundry is enabling teams at @axelspringer to better leverage data and shape business strategy.",
+                "date": "6:31 pm 26 Oct 2022",
+                "retweets": 26,
+                "likes": 133,
+                "replies": 1,
+                "quote_tweets": 2
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "6603098e-d821-4651-b6b9-83cd90f15914",
+                "body": "We don't talk about Foundry enough, because they don't talk about it to the same level that we use them to solve our most important problem. Our engineers work hard to get a picture of what you're doing. We also get the data we needed to make a decision on the most important data issue. Listen in:",
+                "date": "11:21 pm 02 Nov 2022",
+                "retweets": 31,
+                "likes": 201,
+                "replies": 11,
+                "quote_tweets": 3
+            },
+            {
+                "id": "2da3c642-e900-465a-bfe0-2680e99439e9",
+                "body": "Large breakthroughs were made during the pandemic in big data. Now, we're proud to announce the development of a new Palantir product that can 'meet and accelerate industry requirements...' — Dr. Szekovitz @scholarship_energy #palantir",
+                "date": "11:45 pm 23 Oct 2022",
+                "retweets": 22,
+                "likes": 13,
+                "replies": 8,
+                "quote_tweets": 0
+            },
+            {
+                "id": "a37e7a6c-b0c2-48cf-ae04-2d5ecf7e4e06",
+                "body": "Foundry's global impact has been unprecedented, enabling organizations around the world to harness the power of our software, data and #AI across the #sustainableusement sector. Learn how Foundry for Healthcare is powering #AI #publichealthcare data integration to address #covid19 and #covid19 health threats across #enterprise.",
+                "date": "11:59 am 07 Nov 2022",
+                "retweets": 1,
+                "likes": 101,
+                "replies": 49,
+                "quote_tweets": 10
+            }
+        ]
+    },
+    {
+        "id": "dd94e78e-2316-453f-bcec-4793668b06e8",
+        "name": "Booking.com",
+        "handle": "@bookingcom",
+        "picture": "https://media.discordapp.net/attachments/1041153839191052408/1041161612746305607/unknown.png",
+        "followers": 194600,
+        "following": 3922,
+        "joined_date": "March 2009",
+        "real_tweets": [
+            {
+                "id": "77d4476c-0231-4c93-a951-0eb5c2ab544a",
+                "body": "Lunch breaks hit different as a digital nomad. Find your next office here:",
+                "date": "11:08 am 12 Nov 2022",
+                "retweets": 2,
+                "likes": 3,
+                "replies": 9,
+                "quote_tweets": 1
+            },
+            {
+                "id": "f3dfbb2e-8bf6-4299-bafc-25f116de6517",
+                "body": "In the 60s and 70s hippies from across the world flocked to Pakistan to hike through the country’s landscape. One of our favourite spots are the Margalla Hills. The best place to access them is from the capital city, Islamabad.",
+                "date": "10:31 am 09 Nov 2022",
+                "retweets": 0,
+                "likes": 4,
+                "replies": 5,
+                "quote_tweets": 0,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041162201802747955/unknown.png"
+            },
+            {
+                "id": "b487751c-2ced-4c0e-8d49-3af8c8a938d0",
+                "body": "You’re going to want to get on this quick. That’s what she said. We’re making two pairs of lucky fans’ dreams come true with all-nighter at @theofficeexp. 👇",
+                "date": "2:47 pm 3 Nov 2022",
+                "retweets": 2,
+                "likes": 9,
+                "replies": 22,
+                "quote_tweets": 0,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041161964996542565/unknown.png"
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "b7c17ca8-0f75-4a75-95d0-26530d747d68",
+                "body": "Do you know we're a tech company? 🔭 If you still need help, feel free to DM us with your Confirmation number, Pin code, Name in the booking (Booker name), and we'll look into this and get back to you. For immediate support call our customer service here:",
+                "date": "11:01 am 20 Nov 2022",
+                "retweets": 2,
+                "likes": 5,
+                "replies": 11,
+                "quote_tweets": 1
+            },
+            {
+                "id": "d5a4dbe0-6efd-4281-9a9f-d5ebac3fa215",
+                "body": "Book your dream holiday with us and we'll help you with your booking details. For urgent support, remember that you can also count on our 24/7 customer service here",
+                "date": "06:42 pm 02 Oct 2022",
+                "retweets": 13,
+                "likes": 22,
+                "replies": 29,
+                "quote_tweets": 4,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041230172524912742/image.png"
+            },
+            {
+                "id": "e673d9b6-9217-4e5e-99a6-a92ae38ef3b9",
+                "body": "Want to experience medieval europe? Check out these three pictures, they're truly astounding. 😍",
+                "date": "11:59 am 07 Nov 2022",
+                "retweets": 1,
+                "likes": 101,
+                "replies": 88,
+                "quote_tweets": 10,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041234061173215272/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "12ea6025-2f88-40a5-a673-372761515917",
+        "name": "Lockheed Martin",
+        "handle": "@LockheedMartin",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041182655485587466/unknown.png",
+        "followers": 194600,
+        "following": 3922,
+        "joined_date": "May 2009",
+        "real_tweets": [
+            {
+                "id": "4a17b301-b197-45b4-9516-5e39c8fb06d3",
+                "body": "Check out @sameckholm's video highlighting our efforts to advance hypersonic flight technology. \n\nDarkstar happens to make an appearance, so you won't want to miss this! \n😉",
+                "date": "06:31 pm 08 Nov 2022",
+                "retweets": 28,
+                "likes": 170,
+                "replies": 5,
+                "quote_tweets": 1
+            },
+            {
+                "id": "14d3ba84-92ea-4291-9301-de3a2b211f90",
+                "body": "The @USArmy is redefining the art of the possible with Future Vertical Lift. \n\nFrom design and manufacturing to sustainment, we’re continuing our legacy of innovation to help them outpace the threats of tomorrow. @Sikorsky 🤝 @BoeingDefense\n#FVL #FLRAA #ArmyModernization",
+                "date": "04:38 pm 26 Oct 2022",
+                "retweets": 50,
+                "likes": 309,
+                "replies": 5,
+                "quote_tweets": 4
+            },
+            {
+                "id": "7a67ba9b-396d-467c-8dd3-121572981be0",
+                "body": "Now you see me, now you don’t ⚡",
+                "date": "12:55 pm 25 Oct 2022",
+                "retweets": 547,
+                "likes": 5323,
+                "replies": 52,
+                "quote_tweets": 42,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041182528301711514/image.png"
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "c0b8a4e9-e925-49fa-bafb-4b85461680bf",
+                "body": "We are proud to announce a three-year partnership with @NorthropGrumman @NorthropGrumman. This team leverages our Orion knowledge and experience, from crewed systems to mission operations, to deliver next-generation solutions to the world's most vulnerable populations.",
+                "date": "2:04 am 22 Nov 2022",
+                "retweets": 15,
+                "likes": 76,
+                "replies": 11,
+                "quote_tweets": 0
+            },
+            {
+                "id": "f6d74043-1a9c-4082-ad3e-8e9fcbe8a0be",
+                "body": "The f35 programme is a proven air deterrent capability that’s ready to deliver significant airpower to pilots’ mission-ready missions in the skies at any time, anytime. #AIJAMovie #JPL2021 #AIJAMovie #ASC21 #ASC22 @joe_lant Thank you @DrVanHelsing for this great launch and a beautiful flight to watch!",
+                "date": "06:42 am 14 Oct 2022",
+                "retweets": 120,
+                "likes": 201,
+                "replies": 43,
+                "quote_tweets": 11
+            },
+            {
+                "id": "49d3b1fa-5d92-40b4-8aac-5e7b3b4e0627",
+                "body": "The f35 programme is one step closer to a fully autonomous aircraft that can perform flight-by-wire tests and is ready to take delivery to the @USNavy as early as Oct. 22.",
+                "date": "01:59 am 07 Nov 2022",
+                "retweets": 5,
+                "likes": 78,
+                "replies": 4,
+                "quote_tweets": 2,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041184838230740992/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "5dba7925-a2d8-4c2c-ace0-c7915b923b0e",
+        "name": "BAE Systems, Inc.",
+        "handle": "@BAESystemsInc",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041186206379167794/unknown.png",
+        "followers": 148800,
+        "following": 415,
+        "joined_date": "June 2009",
+        "real_tweets": [
+            {
+                "id": "91e3cd9f-0c59-494f-b382-9898402e1cdf",
+                "body": "Seeing is believing.\n\nJoin us in booth 325 at the F-15 TCP World Wide Review, Nov. 14-15, and let us show you our proven advanced weapon system called boresight solutions technology.",
+                "date": "07:10 pm 12 Nov 2022",
+                "retweets": 6,
+                "likes": 17,
+                "replies": 0,
+                "quote_tweets": 0
+            },
+            {
+                "id": "f01b8e77-04ab-4cec-a9bb-93bb94975076",
+                "body": "New York Cruise Lines and Green City Ferries announce plans to launch the first zero-emissions electric ferry into the New York Harbor. The Beluga24 vessel features our electric drive system for cleaner, more efficient marine transportation.",
+                "date": "04:38 pm 26 Oct 2022",
+                "retweets": 4,
+                "likes": 9,
+                "replies": 0,
+                "quote_tweets": 0,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041188393301840002/unknown.png"
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "526551d1-2536-4d6e-9f73-a0dfa72a94cc",
+                "body": "Rough up your work and make your mark this November! Check out these resources to inspire a change in the way people do their jobs. #LifeatBAESystems #NationalInternDay",
+                "date": "4:04 am 11 Nov 2022",
+                "retweets": 15,
+                "likes": 6,
+                "replies": 1,
+                "quote_tweets": 0
+            },
+            {
+                "id": "476a3a04-ad7a-4dfe-883b-7e1b4767e1a0",
+                "body": "The @usairforce has flown more than 110 more aircraft than are certified, all powered by BvS10 engine and via @radar.",
+                "date": "10:42 am 04 Oct 2022",
+                "retweets": 10,
+                "likes": 21,
+                "replies": 1,
+                "quote_tweets": 2,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041190619902656643/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "6e88d4a8-b2c0-409e-904f-0fb83794e330",
+        "name": "The University of Manchester",
+        "handle": "@OfficialUoM",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041191430649020466/unknown.png",
+        "followers": 94400,
+        "following": 670,
+        "joined_date": "November 2013",
+        "real_tweets": [
+            {
+                "id": "8006a982-5a76-4dda-b642-71275ef8d29a",
+                "body": "In The Climate Book, @GretaThunberghas partnered with more than a hundred scientists, engineers, philosophers, journalists, activists and writers, including @KevinClimate.",
+                "date": "06:43 pm 12 Nov 2022",
+                "retweets": 6,
+                "likes": 5,
+                "replies": 0,
+                "quote_tweets": 0
+            },
+            {
+                "id": "3edde8f4-d075-4ae0-a648-06dcddb870e6",
+                "body": "We believe all students should have the chance to go to university. If that's your ambition, we'll help you get there. \n\nApplications close Sunday, 11 December.",
+                "date": "08:00 am 03 Nov 2022",
+                "retweets": 21,
+                "likes": 28,
+                "replies": 0,
+                "quote_tweets": 0
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "710ee0d6-8ef2-45ba-ac0a-be1cd7ad3400",
+                "body": "A lot of things are going to change, all of which we are incredibly passionate about, so please keep calm, and don't be alarmed if you do manage to change your course.",
+                "date": "06:04 pm 21 Nov 2022",
+                "retweets": 8,
+                "likes": 21,
+                "replies": 2,
+                "quote_tweets": 1
+            },
+            {
+                "id": "a61b112d-db69-41ff-a2bc-a66634fc90bc",
+                "body": "To mark the 100-year anniversary of the start of #TheGreatSiren, we are introducing two unique events to mark our 100-year-long partnership with @bluedotfestival to celebrate #GreatSiren celebrations. @The_NWO_NMR will be taking place at Whitworth Hall - at 7pm: Hall C - @GMMHospital @DaltonNuclear.",
+                "date": "11:11 am 04 Oct 2022",
+                "retweets": 8,
+                "likes": 16,
+                "replies": 1,
+                "quote_tweets": 1,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041225557536407552/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "0dce4795-3768-4bfc-802b-0448d84cfda8",
+        "name": "Discord",
+        "handle": "@discord",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041194271312719973/unknown.png",
+        "followers": 4400000,
+        "following": 1105,
+        "joined_date": "March 2015",
+        "real_tweets": [
+            {
+                "id": "8e2549ed-81dc-4eb2-b8c5-4cbdb56388c1",
+                "body": "if nobody got me I know @/everyone got me",
+                "date": "07:10 pm 08 Nov 2022",
+                "retweets": 1622,
+                "likes": 38700,
+                "replies": 590,
+                "quote_tweets": 87
+            },
+            {
+                "id": "e0616561-771f-4fa0-b303-40dd36fdc83c",
+                "body": "when you change your pfp it changes your whole personality be careful out there",
+                "date": "05:01 pm 04 Nov 2022",
+                "retweets": 11600,
+                "likes": 136600,
+                "replies": 2517,
+                "quote_tweets": 1995
+            },
+            {
+                "id": "f0829700-4640-44a1-a061-e2c36f6d021f",
+                "body": "🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻  happi halloween every1!!!!!!!! 🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻🎃👻",
+                "date": "05:03 pm 31 Oct 2022",
+                "retweets": 2163,
+                "likes": 35500,
+                "replies": 536,
+                "quote_tweets": 33
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "e2b9e310-5de8-4d3d-aaf9-0932227985b6",
+                "body": "We're still experimenting with this new feature, and we hope to have it rolled out by the end of the week~",
+                "date": "10:40 pm 07 Nov 2024",
+                "retweets": 1011,
+                "likes": 22300,
+                "replies": 437,
+                "quote_tweets": 15
+            },
+            {
+                "id": "3b911660-9386-4c22-a66f-03ccf99ddd56",
+                "body": "The problem seems to be fixed, but please make sure to add it to our feedback page here:",
+                "date": "06:11 am 11 Nov 2022",
+                "retweets": 865,
+                "likes": 17650,
+                "replies": 833,
+                "quote_tweets": 4
+            }
+        ]
+    },
+    {
+        "id": "9fadb1ae-c9af-4d0c-968b-3c697bb0c05a",
+        "name": "Wendy's",
+        "handle": "@Wendys",
+        "picture": "https://media.discordapp.net/attachments/1041153839191052408/1041198630595473538/unknown.png",
+        "followers": 3900000,
+        "following": 445,
+        "joined_date": "July 2009",
+        "real_tweets": [
+            {
+                "id": "8184f0a5-a150-41b9-abbc-31720c2b80b8",
+                "body": "we love that",
+                "date": "07:10 pm 08 Nov 2022",
+                "retweets": 60,
+                "likes": 1042,
+                "replies": 103,
+                "quote_tweets": 3
+            },
+            {
+                "id": "8c1d5d54-9ceb-4aa1-b0c9-ce414b1af668",
+                "body": "Purple and covered in nerds, just like @Twitch #TwitchCon2022",
+                "date": "06:16 pm 07 Oct 2022",
+                "retweets": 283,
+                "likes": 4695,
+                "replies": 522,
+                "quote_tweets": 73
+            },
+            {
+                "id": "62041122-bfe5-418d-95d3-dd6aefad14b2",
+                "body": "Sci-fi is when you have this Wendy; fantasy is when you have that Wendy",
+                "date": "08:00 pm 26 Sep 2022",
+                "retweets": 120,
+                "likes": 1778,
+                "replies": 136,
+                "quote_tweets": 26,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041200122094157834/image.png"
+            },
+            {
+                "id": "ecff2e88-089c-4b41-b262-a74970023b9f",
+                "body": "burgers",
+                "date": "08:00 pm 26 Sep 2022",
+                "retweets": 2917,
+                "likes": 33300,
+                "replies": 1681,
+                "quote_tweets": 371
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "ae594bd3-3514-4ff6-876c-e22ba20e5419",
+                "body": "👄👄👄👄👄👄👄👄",
+                "date": "11:34 am 26 Nov 2022",
+                "retweets": 2011,
+                "likes": 12200,
+                "replies": 765,
+                "quote_tweets": 8,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041204333104087071/unknown.png"
+            },
+            {
+                "id": "9be84bbb-f2d0-47d5-ac45-c36d19615ce9",
+                "body": "your mom is coming! Get a Frosty with 🤷‍♀️",
+                "date": "08:43 pm 01 Nov 2022",
+                "retweets": 789,
+                "likes": 11700,
+                "replies": 227,
+                "quote_tweets": 1
+            },
+            {
+                "id": "fa645168-42b1-41da-ac83-8904a7b5317b",
+                "body": "canola oil? yes and yes. I said what I said.",
+                "date": "08:27 am 27 Oct 2022",
+                "retweets": 565,
+                "likes": 24500,
+                "replies": 387,
+                "quote_tweets": 4
+            },
+            {
+                "id": "176b901b-271b-4a33-8fee-a172e4a4ea4f",
+                "body": "oh yeah? I do have a bad thing to say about someone.",
+                "date": "04:01 pm 04 Oct 2022",
+                "retweets": 867,
+                "likes": 19876,
+                "replies": 587,
+                "quote_tweets": 18
+            }
+        ]
+    },
+    {
+        "id": "470d2a53-b404-4243-92c0-6a4a059c2985",
+        "name": "Netflix",
+        "handle": "@netflix",
+        "picture": "https://cdn.discordapp.com/attachments/1041207316126629923/1041207354772959322/unknown.png",
+        "followers": 21100000,
+        "following": 2174,
+        "joined_date": "October 2008",
+        "real_tweets": [
+            {
+                "id": "1c05c162-c50e-4bb8-8e16-c7b130b35fb9",
+                "body": "MY FAVORITE PERSON THIS SEASON #LoveIsBlind #LoveisBlindS3",
+                "date": "3:13 pm 9 Nov 2022",
+                "retweets": 2743,
+                "likes": 25600,
+                "replies": 0,
+                "quote_tweets": 293,
+                "attachment": "https://cdn.discordapp.com/attachments/1041207316126629923/1041207383701065808/unknown.png"
+            },
+            {
+                "id": "ceb8281f-2886-4465-8285-dc34a99b0a56",
+                "body": "No one touch me, I’m still in my feelings about Manifest ep 10.\n\n#Manifest",
+                "date": "8:52 pm 8 Nov 2022",
+                "retweets": 379,
+                "likes": 2453,
+                "replies": 50,
+                "quote_tweets": 90
+            },
+            {
+                "id": "d238bbde-db2b-405b-9969-19fbd53cbd30",
+                "body": "The Empress has been renewed for Season 2!",
+                "date": "3:00 pm 8 Nov 2022",
+                "retweets": 928,
+                "likes": 11800,
+                "replies": 618,
+                "quote_tweets": 1532
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "ca853fa9-939d-4787-8519-cb0c1d7369d7",
+                "body": "Ojai Forsood’s final outing in The Crown is a joy. You never know what the Season 3 spoilers are gonna be. And there's reason for believe that one of the biggest twists of The Crown Season 4 will be how you'll end up making it back to the very beginning.",
+                "date": "12:53 pm 7 Nov 2022",
+                "retweets": 910,
+                "likes": 35964,
+                "replies": 29,
+                "quote_tweets": 254
+            },
+            {
+                "id": "98427b4b-c950-48bd-80eb-0caaf40485f5",
+                "body": "This song will have the most iconic opening lines on Netflix.",
+                "date": "4:21 pm 4 Nov 2022",
+                "retweets": 277,
+                "likes": 96004,
+                "replies": 67,
+                "quote_tweets": 260
+            },
+            {
+                "id": "6703f111-40dc-4cdb-a032-6a47fd86ddbd",
+                "body": "It's been a really good week for The Daily Show with these brilliant, heartfelt comedy episodes. Here are 10 things you should know.",
+                "date": "10:19 am 6 Nov 2022",
+                "retweets": 487,
+                "likes": 27805,
+                "replies": 16,
+                "quote_tweets": 122
+            }
+        ]
+    },
+    {
+        "id": "c82eebfc-0cc2-4513-82d5-0adffa0c7286",
+        "name": "UniCS UoM",
+        "handle": "@unicsmcr_",
+        "picture": "https://cdn.discordapp.com/attachments/1041207316126629923/1041210202969604156/unknown.png",
+        "followers": 211,
+        "following": 80,
+        "joined_date": "April 2016",
+        "real_tweets": [
+            {
+                "id": "297487ae-6955-4539-a5ff-4684c50c9b02",
+                "body": "Check out @GradTouch ‘s list of 6 grad schemes you can still apply for now!",
+                "date": "1:12 pm 27 Oct 2022",
+                "retweets": 2,
+                "likes": 4,
+                "replies": 1,
+                "quote_tweets": 0
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "bab0a81f-17a5-4d9e-8952-534bea620df5",
+                "body": "Check out our facebook groups for our future events!",
+                "date": "9:05 am 9 Nov 2022",
+                "retweets": 3,
+                "likes": 2,
+                "replies": 0,
+                "quote_tweets": 0
+            }
+        ]
+    },
+    {
+        "id": "efbee647-44e8-4c3b-8eff-d4d868be2abf",
+        "name": "Disney",
+        "handle": "@Disney",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041213848713187339/unknown.png",
+        "followers": 9600000,
+        "following": 108,
+        "joined_date": "August 2009",
+        "real_tweets": [
+            {
+                "id": "a0dc260f-e0fe-4d37-ae65-d770f742d734",
+                "body": "Let the winds of change guide you towards your next adventure. 🍂",
+                "date": "09:00 pm 07 Nov 2022",
+                "retweets": 381,
+                "likes": 2311,
+                "replies": 52,
+                "quote_tweets": 17,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041208155264270446/unknown.png"
+            },
+            {
+                "id": "95bf0ac0-ff9e-4490-bb9d-8d6ba1da968c",
+                "body": "Hop, prance, rush... 🐰 🦌 🦥 Zootopia+ is now streaming on @DisneyPlus!",
+                "date": "05:09 pm 09 Nov 2022",
+                "retweets": 2011,
+                "likes": 1436,
+                "replies": 34,
+                "quote_tweets": 17
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "b797d78b-0d88-4bea-9aa3-962b52099d72",
+                "body": "Meet the new Guardians of the Galaxy: Legends of the Multiverse. Donate to the Children's Fund Foundation of International Children's Fund at @DisneyParks as a special thank you for this incredible year's support.",
+                "date": "07:15 pm 10 Nov 2022",
+                "retweets": 3511,
+                "likes": 2143,
+                "replies": 77,
+                "quote_tweets": 64
+            },
+            {
+                "id": "8265afc0-756d-487e-a93e-3e4ff1e05b16",
+                "body": "The Beatles are back on @DisneyPlus. Experience The Beatles in theaters November 22! Learn more: #DisneyPlusDay",
+                "date": "04:37 am 30 Oct 2022",
+                "retweets": 4099,
+                "likes": 20700,
+                "replies": 1100,
+                "quote_tweets": 101,
+                "attachment": "https://cdn.discordapp.com/attachments/1041153839191052408/1041223809476337694/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "dde86b57-5d1b-4d2c-85e4-3d2f5b3a6c19",
+        "name": "bill wurtz",
+        "handle": "@billwurtz",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041213848713187339/unknown.png",
+        "followers": 365200,
+        "following": 79,
+        "joined_date": "April 2011",
+        "real_tweets": [
+            {
+                "id": "cfd211e0-f742-4127-add1-0b1334367236",
+                "body": "i think left and right may be backwards, but that's none of my business",
+                "date": "10:16 pm 14 Feb 2022",
+                "retweets": 1303,
+                "likes": 28400,
+                "replies": 152,
+                "quote_tweets": 102
+            },
+            {
+                "id": "28644029-33cf-434a-880f-b8dbe2e40a58",
+                "body": "messages taste much better in a can",
+                "date": "12:49 am 14 Jun 2019",
+                "retweets": 252,
+                "likes": 4095,
+                "replies": 32,
+                "quote_tweets": 2
+            },
+            {
+                "id": "a5a87f5d-ccf0-45eb-b0ab-65b86a2275fa",
+                "body": "do not throw a flame thrower. you must get a flamethrower thrower",
+                "date": "09:51 pm 09 Jun 2019",
+                "retweets": 636,
+                "likes": 6906,
+                "replies": 36,
+                "quote_tweets": 5
+            },
+            {
+                "id": "c39cb76a-158a-4072-b75f-6d972d1f988a",
+                "body": "now that i've tried the electric chair i don't think i could ever go back to regular chairs",
+                "date": "09:41 pm 21 Jun 2019",
+                "retweets": 1435,
+                "likes": 11100,
+                "replies": 44,
+                "quote_tweets": 30
+            },
+            {
+                "id": "c76f20d1-11ac-4d59-8f0e-676fe9f74609",
+                "body": "thinking about relocating the ground into the sky",
+                "date": "05:54 pm 28 Dec 2021",
+                "retweets": 537,
+                "likes": 9878,
+                "replies": 208,
+                "quote_tweets": 49
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "28fe4296-9414-4e26-816c-976a490e0c30",
+                "body": "at least one good person in your life is at risk",
+                "date": "07:45 pm 16 Nov 2019",
+                "retweets": 3511,
+                "likes": 4133,
+                "replies": 438,
+                "quote_tweets": 32
+            },
+            {
+                "id": "5cb8ca88-8ba8-4acf-8ac0-a4668f8c115a",
+                "body": "in jail you can't make a tweet, you have to make a tweet before you can make a tweet. that means i'm going to jail",
+                "date": "11:56 pm 29 Oct 2020",
+                "retweets": 2110,
+                "likes": 4001,
+                "replies": 34,
+                "quote_tweets": 10
+            },
+            {
+                "id": "5b4b93d4-13f4-47bf-8fdb-22f3edfc0c58",
+                "body": "breakfast - the way things look, it is actually pretty good",
+                "date": "11:33 am 16 Jan 2020",
+                "retweets": 3511,
+                "likes": 4133,
+                "replies": 60,
+                "quote_tweets": 32
+            },
+            {
+                "id": "74deb0d8-4e19-4488-b1e1-9225354f9b42",
+                "body": "to use the twitter: get up, move sideways, etc. etc.",
+                "date": "07:45 pm 16 Sep 2019",
+                "retweets": 1884,
+                "likes": 2101,
+                "replies": 438,
+                "quote_tweets": 12
+            },
+            {
+                "id": "42511007-c3b6-4093-b15b-f01453450c12",
+                "body": "The world's smallest fish, which is considered to be a mime fish",
+                "date": "11:28 pm 13 Aug 2017",
+                "retweets": 1001,
+                "likes": 2107,
+                "replies": 43,
+                "quote_tweets": 9
+            }
+        ]
+    },
+    {
+        "id": "51ebb782-8ebf-4091-b128-e421a89f0294",
+        "name": "BBC News",
+        "handle": "@BBCBreaking",
+        "picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041259623782563860/M7gkjsv5_400x400.jpg",
+        "followers": 51400000000,
+        "following": 3,
+        "joined_date": "April 2011",
+        "real_tweets": [
+            {
+                "id": "58fbf9d7-b083-4c51-8313-8617967c9055",
+                "body": "Democrats retain majority control of US Senate after President Joe Bidens party projected to win key race in Nevada",
+                "date": "06:40 am 13 Nov 2022",
+                "retweets": 502,
+                "likes": 2543,
+                "replies": 112,
+                "quote_tweets": 300
+            },
+            {
+                "id": "b428167f-638b-478f-8927-1cc942146128",
+                "body": "Foreign Secretary Liz Truss meets Northern Ireland businesses over protocol negotiations",
+                "date": "07:40 am 11 Jan 2022",
+                "retweets": 7,
+                "likes": 42,
+                "replies": 20,
+                "quote_tweets": 9
+            },
+            {
+                "id": "4194d82c-2843-4a94-b485-b65fc9dcd7c7",
+                "body": "Liz Truss still in charge, new chancellor insists",
+                "date": "11:28 pm 16 Oct 2022",
+                "retweets": 1001,
+                "likes": 2107,
+                "replies": 43,
+                "quote_tweets": 9
+            },
+            {
+                "id": "66e49c6b-43bb-429e-9c00-1468b8b77917",
+                "body": "Anyone can make war, but only the most courageous can make peace - US President Donald Trump on honest, direct meeting with Kim Jong-un",
+                "date": "09:35 am 12 Jun 2018",
+                "retweets": 754,
+                "likes": 1632,
+                "replies": 321,
+                "quote_tweets": 155
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "cbf1c540-0bb6-4b77-8000-cec722127e29",
+                "body": "Democrats and Republicans share Biden's thoughts on Biden and K-pop star",
+                "date": "11:31 pm 13 Aug 2020",
+                "retweets": 2038,
+                "likes": 2552,
+                "replies": 922,
+                "quote_tweets": 573
+            },
+            {
+                "id": "86f5c019-e3bf-424b-92c3-68d35b753133",
+                "body": "Liz Truss faces legal action over tax measures",
+                "date": "11:28 am 18 Oct 2022",
+                "retweets": 987,
+                "likes": 4734,
+                "replies": 430,
+                "quote_tweets": 200
+            },
+            {
+                "id": "df56c4f8-0e3f-44ce-8f4a-9026076d2595",
+                "body": "Democrats and Republicans agree on plan to avoid automatic election-year shutdown",
+                "date": "02:10 pm 06 Sep 2023",
+                "retweets": 30,
+                "likes": 89,
+                "replies": 10,
+                "quote_tweets": 55
+            },
+            {
+                "id": "224f02be-1717-421e-b2df-51b81a590e5c",
+                "body": "Labour Party leadership and NEC conference: Can Lucy Powell get on with the bigots? Listen on the latest episode of Panorama #OnYourYourQuestions",
+                "date": "05:01 pm 27 Sep 2022",
+                "retweets": 202,
+                "likes": 552,
+                "replies": 256,
+                "quote_tweets": 97
+            }
+        ]
+    },
+    {
+        "id": "e7527f04-a16b-40d8-ad68-afc8a681137e",
+        "name": "McDonalds",
+        "handle": "@McDonalds",
+        "picture": "https://cdn.discordapp.com/attachments/1027959698617552997/1041248985362464798/unknown.png",
+        "followers": 4700000,
+        "following": 13600,
+        "joined_date": "September 2009",
+        "real_tweets": [
+            {
+                "id": "89ef93a7-0253-4942-b7fa-ea60fc8adabf",
+                "body": "link in bioooooooooooooooooooooooooooooooooooooooooooooooooooo",
+                "date": "05:01 pm 10 Nov 2022",
+                "retweets": 504,
+                "likes": 26500,
+                "replies": 200,
+                "quote_tweets": 237
+            },
+            {
+                "id": "d4ffa327-2dbf-4c1f-af88-8f3db675d190",
+                "body": "Rule #1 for surviving a group project: assign someone to pick up everyone’s favorite McCafé drink.",
+                "date": "05:00 pm 11 Dec 2017",
+                "retweets": 51,
+                "likes": 227,
+                "replies": 55,
+                "quote_tweets": 6,
+                "attachment": "https://cdn.discordapp.com/attachments/1027959698617552997/1041250491558002688/unknown.png"
+            },
+            {
+                "id": "21dbc1d9-c452-4af8-9648-de749c975446",
+                "body": "march 2020: i'm going to use this time to read books, learn new skills, and become a better person! march 2021: does grimace have thumbs",
+                "date": "04:43 pm 3 Mar 2021",
+                "retweets": 368,
+                "likes": 557,
+                "replies": 200,
+                "quote_tweets": 57
+            },
+            {
+                "id": "b0e39e02-d12a-44ca-b57c-69a9c375ef83",
+                "body": "one day you ordered a Happy Meal for the last time and you didn't even know it.",
+                "date": "03:36 pm 24 Nov 2020",
+                "retweets": 3016,
+                "likes": 25300,
+                "replies": 2142,
+                "quote_tweets": 3061
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "e886759a-0704-4203-b858-24f5bb8bc360",
+                "body": "Meet the new McTasty. Now available in your kitchen #UberEats",
+                "date": "05:01 pm 27 Sep 2022",
+                "retweets": 202,
+                "likes": 555,
+                "replies": 264,
+                "quote_tweets": 101,
+                "attachment": "https://cdn.discordapp.com/attachments/760858478855585812/1041256681088241724/unknown.png"
+            },
+            {
+                "id": "2a446185-21d0-4511-820b-850aefdc0d97",
+                "body": "I'm lovin it 🔥 🔥",
+                "date": "10:15 am 04 Feb 2016",
+                "retweets": 196,
+                "likes": 2900,
+                "replies": 4,
+                "quote_tweets": 15
+            },
+            {
+                "id": "a92001b0-157d-4442-b1ae-b12e8ea9ce10",
+                "body": "Sign up for awesome deals and rewards, like us on Facebook!",
+                "date": "12:15 am 17 Apr 2018",
+                "retweets": 196,
+                "likes": 2900,
+                "replies": 4,
+                "quote_tweets": 15
+            }
+        ]
+    },
+    {
+        "id": "aa8f87b7-8dde-4cb3-b1e7-229efe65c8fd",
+        "name": "Manchester Metropolitan Uni",
+        "handle": "@ManMetUni",
+        "picture": "https://cdn.discordapp.com/attachments/1041278776723648584/1041278915605434368/p7H7sBIa_400x400.jpg",
+        "followers": 57400,
+        "following": 1290,
+        "joined_date": "May 2008",
+        "real_tweets": [
+            {
+                "id": "b23f846a-b968-43ed-8e1d-4bb80e3c5bef",
+                "body": "This week, we're launching our new Leadership in Sustainability Strategy! As part of the strategy, we're embedding learning about sustainability into every course at Manchester Met to help equip our students to shape a more sustainable future. 🌍",
+                "date": "10:47 am 8 Nov 2022",
+                "retweets": 12,
+                "likes": 23,
+                "replies": 0,
+                "quote_tweets": 1
+            },
+            {
+                "id": "514dc620-3365-41c4-bacb-1223b7757d60",
+                "body": "Take part in live experiments, chat to computer scientists from @ManMetUni, and get hands on with machines at ‘Pi: Me vs Machine’, which takes place at this year’s Manchester Science Festival ",
+                "date": "11:23 am 15 Oct 2018",
+                "retweets": 1,
+                "likes": 2,
+                "replies": 0,
+                "quote_tweets": 7,
+                "attachment": "https://cdn.discordapp.com/attachments/1041278776723648584/1041280642689806346/unknown.png"
+            },
+            {
+                "id": "8144aab5-bc87-43a3-aff7-1765e9f10130",
+                "body": "Whats your favorite Christmas cracker joke?",
+                "date": "10:47 am 8 Nov 2018",
+                "retweets": 12,
+                "likes": 2,
+                "replies": 0,
+                "quote_tweets": 1,
+                "attachment": "https://cdn.discordapp.com/attachments/1041278776723648584/1041282491958427678/unknown.png"
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "73c0a62c-0265-4132-8884-b5794a29943d",
+                "body": "World Wrestling: @MMUSport – Featuring the likes of Michael Jordan and Ben Brown (@TheManMetROH) as part of @McrWorldWrestling. We hope you enjoy, and stay safe in Manchester Met! 🎄🙌",
+                "date": "12:53 am 5 Aug 2019",
+                "retweets": 502,
+                "likes": 2100,
+                "replies": 350,
+                "quote_tweets": 190
+            },
+            {
+                "id": "b50badba-028d-42db-b47a-0dab68b94785",
+                "body": "World History Month! Celebrate the work of international scholars and scholars by joining us at @McrInstSport, and taking part in a number of events from Saturday 19th - 24th December.",
+                "date": "11:21 am 15 Sep 2019",
+                "retweets": 2,
+                "likes": 23,
+                "replies": 0,
+                "quote_tweets": 0,
+                "attachment": "https://cdn.discordapp.com/attachments/1041278776723648584/1041286580960251975/unknown.png"
+            },
+            {
+                "id": "8335905c-18c4-4c9b-a6c0-84de2d86109c",
+                "body": "Congratulations to the @ManMetCareers Team whose #TeamGB student careers have been recognised by @McrSchArt in the prestigious Artisan Fair collection. 🥳🏄 🏳️",
+                "date": "12:53 am 5 Jan 2017",
+                "retweets": 5,
+                "likes": 4,
+                "replies": 0,
+                "quote_tweets": 10
+            }
+        ]
+    },
+    {
+        "id": "8d6bc866-c003-4685-b6a8-50ce66e6cc6f",
+        "name": "Tim Siedell",
+        "handle": "@badbanana",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041279328077479986/unknown.png",
+        "followers": 727800,
+        "following": 248,
+        "joined_date": "March 2007",
+        "real_tweets": [
+            {
+                "id": "57d32376-45b2-4bc9-bc6d-0a2546abf5a4",
+                "body": "I hate to be the one to point this out, but you all have gone absolutely bonkers.",
+                "date": "08:14 pm 26 Aug 2022",
+                "retweets": 31,
+                "likes": 202,
+                "replies": 13,
+                "quote_tweets": 3
+            },
+            {
+                "id": "14398373-b2d8-4b75-a6ba-30b55df32241",
+                "body": "Life is short. Scroll faster.",
+                "date": "07:33 pm 24 Jul 2022",
+                "retweets": 78,
+                "likes": 200,
+                "replies": 1,
+                "quote_tweets": 5
+            },
+            {
+                "id": "58bd753a-5044-4055-beba-4c56dd797085",
+                "body": "You can have my fireworks when you pry them from my cold dead fingers, which are right over there by the sidewalk",
+                "date": "12:55 pm 25 Oct 2022",
+                "retweets": 1695,
+                "likes": 3413,
+                "replies": 24,
+                "quote_tweets": 51,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041182528301711514/image.png"
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "bdaec4b3-4edb-4c3a-810a-944d96148b4b",
+                "body": "I've been thinking about going to a Burning Man to meet the people who are good at something.",
+                "date": "2:04 am 22 Nov 2022",
+                "retweets": 1256,
+                "likes": 5606,
+                "replies": 19,
+                "quote_tweets": 443
+            },
+            {
+                "id": "06ac6135-420d-490d-82d2-83dc1599c7e2",
+                "body": "And then there's James Woods getting up at the bar and saying 'Yikes! Thanks for signing up!'",
+                "date": "08:56 pm 14 Mar 2020",
+                "retweets": 1200,
+                "likes": 2670,
+                "replies": 20,
+                "quote_tweets": 11
+            },
+            {
+                "id": "271d763f-d4f8-44d2-afcb-ff6896df6b51",
+                "body": "I will always vote for Jeb. On top of that, there are other great reasons to vote for him.",
+                "date": "07:59 pm 14 Nov 2020",
+                "retweets": 5,
+                "likes": 78,
+                "replies": 4,
+                "quote_tweets": 2,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041184838230740992/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "a7a336bc-1c12-483e-9ed6-ee4b14b78d42",
+        "name": "Joe Lycett",
+        "handle": "@joelycett",
+        "picture": "https://media.discordapp.net/attachments/1041153839191052408/1041283033665372270/unknown.png",
+        "followers": 1200000,
+        "following": 1,
+        "joined_date": "December 2008",
+        "real_tweets": [
+            {
+                "id": "e7af6db4-d1c1-4dce-9505-62f594e69023",
+                "body": ". @trussliz omg just heard there’s a leadership election nxt week????? u shud run babe youd be perfect!!! 💝💫💥",
+                "date": "08:14 pm 26 Aug 2022",
+                "retweets": 11100,
+                "likes": 157200,
+                "replies": 910,
+                "quote_tweets": 373
+            },
+            {
+                "id": "b059d196-3afb-44f9-a027-016d5e75c6e9",
+                "body": "Proud mum x",
+                "date": "07:33 pm 24 Jul 2022",
+                "retweets": 11,
+                "likes": 1311,
+                "replies": 15,
+                "quote_tweets": 5
+            },
+            {
+                "id": "304f57d6-8e8f-4277-b770-58b0184f070e",
+                "body": "fyi since coming out as right wing my tour sales have exploded #staywokestaybroke #fairplaytojanet \n\nhttps://joelycett.com/Comedy",
+                "date": "12:55 pm 25 Oct 2022",
+                "retweets": 1229,
+                "likes": 35000,
+                "replies": 596,
+                "quote_tweets": 51
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "cf6374c4-613d-48a8-b0c3-d67779e85e0c",
+                "body": "@HUGOBOSS If you're a minority company then I recommend you go over to a minority team and see if you can do better.",
+                "date": "2:04 pm 11 Aug 2020",
+                "retweets": 21776,
+                "likes": 45789,
+                "replies": 1102,
+                "quote_tweets": 12
+            },
+            {
+                "id": "bd26e595-9f3e-4f4a-9a26-ede6e7ae05fc",
+                "body": "Crisis is the most important thing in life",
+                "date": "08:56 pm 14 Mar 2022",
+                "retweets": 1200,
+                "likes": 4666,
+                "replies": 198,
+                "quote_tweets": 11
+            },
+            {
+                "id": "f0bd5b85-3b0a-43d9-8778-14e2ad8c943b",
+                "body": "The team at FACT's HQ in Birmingham, Birmingham - including Steve and Susan - have released the first of two series of this year's #GiveBlood. A bit of a history: Last year it was revealed that it could be sold for more than £100,000. Here is some footage of the show from Birmingham which we absolutely adore. The documentary is available now. #GiveBloodOfficial.",
+                "date": "07:59 pm 14 Nov 2020",
+                "retweets": 7387,
+                "likes": 11865,
+                "replies": 897,
+                "quote_tweets": 113,
+                "attachment": "https://media.discordapp.net/attachments/1041153839191052408/1041286248788135997/unknown.png"
+            }
+        ]
+    },
+    {
+        "id": "f8f29011-039b-4c22-b2f3-223a1e1fdfbb",
+        "name": "Darth Vader",
+        "handle": "@DarthVader",
+        "picture": "https://cdn.discordapp.com/attachments/1041153839191052408/1041286881666682900/unknown.png",
+        "followers": 422100,
+        "following": 5449,
+        "joined_date": "January 2007",
+        "real_tweets": [
+            {
+                "id": "38a9e81b-e13c-4f4d-a5c0-bad964b219c7",
+                "body": "<Breathes heavily>",
+                "date": "03:03 pm 9 Mar 2022",
+                "retweets": 158,
+                "likes": 157,
+                "replies": 27,
+                "quote_tweets": 5
+            },
+            {
+                "id": "166bc310-0d34-4d27-9b20-e07dc0cfaeba",
+                "body": "My space laser is bigger than yours.",
+                "date": "07:33 pm 24 Jul 2022",
+                "retweets": 87,
+                "likes": 603,
+                "replies": 24,
+                "quote_tweets": 1
+            },
+            {
+                "id": "d590aea9-e94c-4b21-8616-ee67d5e5ca52",
+                "body": "I do not understand the concern. It is a great honor to have stormtroopers invade and occupy your city.",
+                "date": "12:55 pm 25 Oct 2022",
+                "retweets": 215,
+                "likes": 1001,
+                "replies": 15,
+                "quote_tweets": 0
+            }
+        ],
+        "fake_tweets": [
+            {
+                "id": "438aade8-03ca-4b56-9ab3-a17e29dd5675",
+                "body": "You are my son-in-law and I have served my time as an Imperial courier. I shall soon upgrade my Dark Lord's thermal imaging systems. Heh..",
+                "date": "2:04 pm 11 Aug 2020",
+                "retweets": 101,
+                "likes": 606,
+                "replies": 10,
+                "quote_tweets": 12
+            },
+            {
+                "id": "b6f52f8a-61f5-45db-b352-f9b69d9f9522",
+                "body": "The Death Star is a little dark inside. I will be killing Sith Lords with impunity...",
+                "date": "2:04 pm 11 Aug 2020",
+                "retweets": 98,
+                "likes": 808,
+                "replies": 17,
+                "quote_tweets": 1
+            },
+            {
+                "id": "f14b7cd5-4367-46dd-8ae0-3fb0a28353ac",
+                "body": "I am your master.",
+                "date": "07:59 pm 14 Nov 2021",
+                "retweets": 156,
+                "likes": 1185,
+                "replies": 16,
+                "quote_tweets": 10
+            }
+        ]
+    }
+]
