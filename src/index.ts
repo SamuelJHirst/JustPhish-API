@@ -1,9 +1,12 @@
 import cors from 'cors';
+import dotenv from 'dotenv';
 import express from 'express';
 
 import gameplayRouter from './routes/gameplay';
 import leaderboardRouter from './routes/leaderboard';
 import responsesRouter from './routes/responses';
+
+dotenv.config();
 
 const app = express();
 
